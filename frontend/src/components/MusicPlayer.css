@@ -34,26 +34,6 @@ p {
   font-size: clamp(0.7rem, 3vw, 1rem);
 }
 
-body {
-  font-family: "Nunito", sans-serif;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-  background: #001124
-    url(https://img.freepik.com/premium-vector/gradient-glassmorphism-background_23-2149437416.jpg)
-    no-repeat center/cover;
-}
-
-main {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  background: transparent;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
-  border-radius: 15px;
-  overflow: hidden;
-}
 
 /* ─── TWO-COLUMN LAYOUT ───────────────────────────────────────────────────────── */
 .slider-playlist {
